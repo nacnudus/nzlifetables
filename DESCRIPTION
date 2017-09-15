@@ -1,0 +1,17 @@
+Package: nzlifetables
+Title: New Zealand Cohort Life Tables
+Version: 0.0.0.9000
+Authors@R: person("Duncan", "Garmonsway", email = "duncan.garmonsway@gmail.com", role = c("aut", "cre"))
+Description: A dataset of cohort life tables provided by Statistics New Zealand
+    <http://www.stats.govt.nz/browse_for_stats/health/life_expectancy/cohort-life-tables-info-releases.aspx>.
+    This package is not associated with the New Zealand government in any way.
+Depends: R (>= 3.3.2)
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
+Suggests: knitr,
+    rmarkdown,
+    tidyverse
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
