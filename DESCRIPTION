@@ -5,6 +5,8 @@ Authors@R: person("Duncan", "Garmonsway", email = "duncan.garmonsway@gmail.com",
 Description: A dataset of cohort life tables provided by Statistics New Zealand
     <http://www.stats.govt.nz/browse_for_stats/health/life_expectancy/cohort-life-tables-info-releases.aspx>.
     This package is not associated with the New Zealand government in any way.
+URL: https://github.com/nacnudus/nzlifetables
+BugReports: https://github.com/nacnudus/nzlifetables/issues
 Depends: R (>= 3.3.2)
 License: CC BY 4.0
 Encoding: UTF-8
