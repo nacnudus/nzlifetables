@@ -167,5 +167,5 @@ Other New Zealand datasets by the same author:
 ----------------------------------------------
 
 -   [nzpullover](https://nacnudus.github.io/nzpullover) -- road policing statistics, updated quarterly.
--   [nzcensus2013](https://github.com/nacnudus/nzlifetables) -- summary statistics from the 2013 New Zealand census
+-   [nzcensus2013](https://github.com/nacnudus/nzcensus2013) -- summary statistics from the 2013 New Zealand census
 -   [nzbabynames](https://github.com/nacnudus/nzbabynames) -- the top 100 baby names annually since 1954, and annual birth statistics.
